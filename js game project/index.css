@@ -9,7 +9,6 @@
     width: 80%;
     padding-top: 50px;
     padding-bottom: 50px;
-    /* background-color: gray; */
     margin-left: 10%;
 }
 
@@ -21,7 +20,6 @@
 .header{
     height: 50px;
     width:100%;
-    /* background-color: red; */
     display: flex;
     justify-content: space-between;
 }
@@ -30,7 +28,6 @@
 
 .cards{
     width: 100%;
-    /* background-color: lightgray; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -48,7 +45,6 @@
 .card{
     height: 300px;
     width: 18%;
-    background-color: red;
     margin-top: 20px;
     background-size: cover;
 }
